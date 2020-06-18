@@ -65,6 +65,7 @@ div img {
 		margin-right: 0;
 		min-height: 1px;
 		float: left;
+		height: 100%;
 	}
 	.col-1-2,
 	.col-2 {

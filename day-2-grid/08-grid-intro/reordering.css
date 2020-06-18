@@ -1,9 +1,9 @@
-.wrapper {
+body {
 	display: grid;
 	grid-gap: 10px;
 	font-family: Arial, sans-serif;
 }
-.wrapper > * {
+body > * {
 	padding: 1em;
 	border-radius: 1em;
 }
